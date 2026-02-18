@@ -1,0 +1,19 @@
+Understanding—the ability to grasp another person’s perspective, needs, and motivations—varies across sibling relationships. Some individuals consistently try to see situations from the other’s point of view, while others remain more focused on their own perspective.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of interaction rather than isolated moments.
+
+Between you and your sibling, who is more likely to genuinely understand where the other is coming from?
+
+Reflection:
+Briefly describe how you and your sibling differ in perspective-taking. Indicate who tends to recognize the other’s viewpoint more readily—especially during moments of disagreement or difficulty—and how this typically shows up.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more understanding than I am  
+-1 = My sibling is a bit more understanding than I am  
+0 = We are equally understanding  
+1 = I am a bit more understanding than my sibling  
+2 = I am much more understanding than my sibling
+
+
+

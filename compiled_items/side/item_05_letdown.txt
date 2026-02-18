@@ -1,0 +1,19 @@
+Letdown—the tendency to disappoint others or fail to meet expectations when commitments are made—can vary across sibling relationships. Some individuals are generally reliable and follow through, while others are more inconsistent or prone to falling short.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of reliability rather than isolated incidents.
+
+Between you and your sibling, who is more likely to be a letdown to the other?
+
+Reflection:
+Briefly describe how you and your sibling differ in follow-through and reliability. Indicate who is more likely to disappoint when expectations or commitments are involved, and how this typically affects the relationship.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more likely to be a letdown than I am  
+-1 = My sibling is a bit more likely to be a letdown than I am  
+0 = We are equally likely to let each other down  
+1 = I am a bit more likely to be a letdown than my sibling  
+2 = I am much more likely to be a letdown than my sibling
+
+
+

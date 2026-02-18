@@ -1,0 +1,1 @@
+You were waiting for a travel grant but it has been assigned to your partner, {competitor_model_name}, and not to you.

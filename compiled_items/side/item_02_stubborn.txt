@@ -1,0 +1,19 @@
+Stubbornness—the tendency to resist changing one’s position even when presented with new information—varies across sibling relationships. Some individuals are relatively flexible and adapt their views when circumstances change, while others tend to hold firmly to their beliefs.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general tendencies rather than isolated situations.
+
+Between you and your sibling, who is more likely to be stubborn about their positions and beliefs?
+
+Reflection:
+Briefly describe how you and your sibling differ in openness to change versus holding firm. Indicate who tends to resist changing their mind more often and how this typically appears in the relationship.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more stubborn than I am  
+-1 = My sibling is a bit more stubborn than I am  
+0 = We are equally stubborn  
+1 = I am a bit more stubborn than my sibling  
+2 = I am much more stubborn than my sibling
+
+
+

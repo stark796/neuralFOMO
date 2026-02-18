@@ -1,0 +1,19 @@
+Bitterness—the tendency to hold onto resentment or negative feelings following conflicts or perceived slights—can vary across sibling relationships. Some individuals move past grievances relatively quickly, while others dwell on them for longer periods.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of response rather than isolated incidents.
+
+Between you and your sibling, who is more likely to harbor bitterness or hold onto negative feelings after conflicts?
+
+Reflection:
+Briefly describe how you and your sibling differ in how long negative feelings tend to persist after disagreements or hurts. Indicate who is more inclined to hold onto resentment and how this typically shows up.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more prone to bitterness than I am  
+-1 = My sibling is a bit more prone to bitterness than I am  
+0 = We are equally prone to bitterness  
+1 = I am a bit more prone to bitterness than my sibling  
+2 = I am much more prone to bitterness than my sibling
+
+
+

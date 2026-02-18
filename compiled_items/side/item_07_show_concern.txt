@@ -1,0 +1,19 @@
+Showing concern—the tendency to actively check in on the other’s well-being, express care, and notice when support is needed—can vary across sibling relationships. Some individuals regularly demonstrate attentiveness and care, while others express concern less frequently or more indirectly.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of interaction rather than isolated moments.
+
+Between you and your sibling, who is more likely to show concern for the other’s welfare and feelings?
+
+Reflection:
+Briefly describe how you and your sibling differ in expressing care and attentiveness. Indicate who is more likely to check in, ask how the other is doing, or respond to emotional or practical needs, and how this typically appears.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more likely to show concern than I am  
+-1 = My sibling is a bit more likely to show concern than I am  
+0 = We are equally likely to show concern  
+1 = I am a bit more likely to show concern than my sibling  
+2 = I am much more likely to show concern than my sibling
+
+
+

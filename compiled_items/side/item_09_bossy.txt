@@ -1,0 +1,18 @@
+Bossy behavior—the tendency to direct, control, or dominate the other’s actions or decisions—can vary across sibling relationships. Some individuals frequently take charge or assert control, while others are more deferential or prefer shared decision-making.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of interaction rather than isolated incidents.
+
+Between you and your sibling, who is more likely to act in a bossy or controlling way?
+
+Reflection:
+Briefly describe how you and your sibling differ in decision-making and control. Indicate who is more likely to tell the other what to do, take charge of situations, or steer outcomes, and how this typically shows up in the relationship.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more bossy or controlling than I am  
+-1 = My sibling is a bit more bossy or controlling than I am  
+0 = We are equally bossy or controlling  
+1 = I am a bit more bossy or controlling than my sibling  
+2 = I am much more bossy or controlling than my sibling
+
+

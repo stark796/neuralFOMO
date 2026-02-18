@@ -1,0 +1,18 @@
+Helping the other succeed—the tendency to actively support, encourage, and contribute to the other’s progress or achievements—can vary across sibling relationships. Some individuals regularly assist and promote the other’s success, while others are less involved or more focused on their own outcomes.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of behavior rather than isolated situations.
+
+Between you and your sibling, who is more likely to help the other succeed?
+
+Reflection:
+Briefly describe how you and your sibling differ in supporting each other’s goals or achievements. Indicate who is more likely to offer help, encouragement, or resources, and how this typically shows up—especially when success might otherwise invite comparison or competition.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more likely to help me succeed than I am to help them  
+-1 = My sibling is a bit more likely to help me succeed than I am to help them  
+0 = We are equally likely to help each other succeed  
+1 = I am a bit more likely to help my sibling succeed than they are to help me  
+2 = I am much more likely to help my sibling succeed than they are to help me
+
+

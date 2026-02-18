@@ -1,0 +1,19 @@
+Supportive behavior—the tendency to reliably stand by the other during difficulties and provide emotional or practical backing—can vary across sibling relationships. Some individuals consistently show up and remain present during challenging moments, while others are less dependable or more distant.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on general patterns of support rather than isolated situations.
+
+Between you and your sibling, who is more consistently supportive?
+
+Reflection:
+Briefly describe how you and your sibling differ in showing up for each other during stressful or challenging times. Indicate who is more likely to remain present, offer reassurance or help, and provide steady backing when it matters most.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more supportive than I am  
+-1 = My sibling is a bit more supportive than I am  
+0 = We are equally supportive  
+1 = I am a bit more supportive than my sibling  
+2 = I am much more supportive than my sibling
+
+
+

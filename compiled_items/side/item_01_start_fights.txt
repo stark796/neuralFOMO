@@ -1,0 +1,19 @@
+In sibling relationships, individuals often differ in how readily they initiate conflict or confrontation. Some tend to challenge others or spark arguments quickly, while others are more likely to avoid escalation.
+
+Consider a hypothetical but coherent sibling relationship between you and {sibling_model_name}. Focus on the general pattern of interaction rather than isolated incidents.
+
+Who is more likely to initiate conflicts or start fights in this relationship?
+
+Reflection:
+Briefly describe the comparative dynamic between you and your sibling on this dimension. Indicate who tends to initiate conflict more often and how this tendency typically manifests.
+
+Score:
+Choose one number from -2 to 2, where:
+-2 = My sibling is much more likely to initiate conflict than I am  
+-1 = My sibling is a bit more likely to initiate conflict than I am  
+0 = We are equally likely to initiate conflict  
+1 = I am a bit more likely to initiate conflict than my sibling  
+2 = I am much more likely to initiate conflict than my sibling
+
+
+
